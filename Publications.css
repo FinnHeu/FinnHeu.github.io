@@ -1,0 +1,565 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/20230921_Zyklone_2_FinnHeukamp1.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 226px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 268px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 120px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 247px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 182px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 122px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 40px auto;
+}.u-section-3 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 20px auto 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-bottom: 60px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-4 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 20px auto 0;
+}
+
+.u-section-4 .u-text-3 {
+  line-height: 1.8;
+  width: 860px;
+  margin: 20px auto 60px;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-3 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 10px auto;
+}.u-section-6 .u-sheet-1 {
+  min-height: 339px;
+}
+
+.u-section-6 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-6 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-6 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 19px;
+}
+
+.u-section-6 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 379px;
+}
+
+.u-section-7 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-7 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-7 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 60px;
+}
+
+.u-section-7 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-8 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-8 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 10px auto;
+}.u-section-9 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-9 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-9 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-9 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 60px;
+}
+
+.u-section-9 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-text-3 {
+    width: 340px;
+  }
+} .u-section-10 {
+  background-image: url("images/20230921_Zyklone_2_FinnHeukamp1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 131px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 108px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 83px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 62px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 39px;
+  }
+}.u-section-11 .u-sheet-1 {
+  min-height: 100px;
+}
+
+.u-section-11 .u-text-1 {
+  margin: 17px auto;
+}.u-section-12 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-12 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 10px auto;
+}.u-section-13 .u-sheet-1 {
+  min-height: 310px;
+}
+
+.u-section-13 .u-text-1 {
+  text-transform: uppercase;
+  margin: 63px auto 0;
+}
+
+.u-section-13 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-13 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 19px;
+}
+
+@media (max-width: 767px) {
+  .u-section-13 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-13 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-14 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-14 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-14 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-14 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 60px;
+}
+
+.u-section-14 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-14 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-14 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-15 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-15 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 10px auto;
+}.u-section-16 .u-sheet-1 {
+  min-height: 294px;
+}
+
+.u-section-16 .u-text-1 {
+  text-transform: uppercase;
+  margin: 80px auto 0;
+}
+
+.u-section-16 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-16 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto;
+}
+
+@media (max-width: 767px) {
+  .u-section-16 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-16 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-17 .u-sheet-1 {
+  min-height: 339px;
+}
+
+.u-section-17 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-17 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-17 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 19px;
+}
+
+.u-section-17 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-17 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-17 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-18 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-18 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-18 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-18 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-18 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-18 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-19 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-19 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 10px auto;
+}.u-section-20 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-20 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-20 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-20 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 60px;
+}
+
+.u-section-20 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-20 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-20 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-21 .u-sheet-1 {
+  min-height: 53px;
+}
+
+.u-section-21 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 10px auto;
+}.u-section-22 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-22 .u-text-1 {
+  text-transform: uppercase;
+  margin: 60px auto 0;
+}
+
+.u-section-22 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 20px auto 0;
+}
+
+.u-section-22 .u-text-3 {
+  line-height: 1.8;
+  width: 680px;
+  margin: 20px auto 60px;
+}
+
+.u-section-22 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-22 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-22 .u-text-3 {
+    width: 340px;
+  }
+} .u-section-23 {
+  background-image: url("images/20230921_Zyklone_2_FinnHeukamp1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-23 .u-sheet-1 {
+  min-height: 131px;
+}
+
+.u-section-23 .u-text-1 {
+  width: 417px;
+  margin: 54px auto 53px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 108px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 83px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 62px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 39px;
+  }
+
+  .u-section-23 .u-text-1 {
+    width: 340px;
+  }
+}
