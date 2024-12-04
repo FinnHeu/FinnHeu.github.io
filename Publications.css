@@ -44,13 +44,7 @@
 .u-section-3 .u-text-1 {
   font-weight: 900;
   font-size: 1.875rem;
-  margin: 20px auto 0;
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-text-1 {
-    margin-bottom: 60px;
-  }
+  margin: 10px auto;
 }.u-section-4 .u-sheet-1 {
   min-height: 354px;
 }
