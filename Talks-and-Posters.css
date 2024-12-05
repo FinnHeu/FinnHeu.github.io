@@ -515,44 +515,107 @@
   .u-section-10 .u-text-1 {
     margin-top: -115px;
   }
-} .u-section-11 {
+}.u-section-11 .u-sheet-1 {
+  min-height: 73px;
+}
+
+.u-section-11 .u-text-1 {
+  font-weight: 900;
+  font-size: 1.875rem;
+  margin: 20px auto;
+}.u-section-12 .u-sheet-1 {
+  min-height: 740px;
+}
+
+.u-section-12 .u-image-1 {
+  width: 483px;
+  height: 506px;
+  margin: 78px auto 0 171px;
+}
+
+.u-section-12 .u-text-1 {
+  font-weight: 700;
+  margin: -265px 193px 60px 667px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-12 .u-text-1 {
+    margin-right: 192px;
+    margin-left: 567px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-12 .u-text-1 {
+    margin-left: 440px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-12 .u-image-1 {
+    margin-left: 57px;
+  }
+
+  .u-section-12 .u-text-1 {
+    margin-right: 144px;
+    margin-left: 260px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-12 .u-sheet-1 {
+    min-height: 537px;
+  }
+
+  .u-section-12 .u-image-1 {
+    width: 340px;
+    height: 356px;
+    margin-left: 0;
+  }
+
+  .u-section-12 .u-text-1 {
+    margin-top: -115px;
+    margin-right: 91px;
+    margin-left: 60px;
+  }
+} .u-section-13 {
   background-image: url("images/20230921_Zyklone_2_FinnHeukamp1.jpg");
   background-position: 50% 50%;
 }
 
-.u-section-11 .u-sheet-1 {
+.u-section-13 .u-sheet-1 {
   min-height: 131px;
 }
 
-.u-section-11 .u-text-1 {
+.u-section-13 .u-text-1 {
   width: 417px;
   margin: 54px auto 53px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 108px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 83px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 62px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 39px;
   }
 
-  .u-section-11 .u-text-1 {
+  .u-section-13 .u-text-1 {
     width: 340px;
   }
 }
